@@ -1,8 +1,4 @@
-# Myblogs
+# 老洋之家
 
-
-> 老洋之家
-
-
-[CSDN](https://blog.csdn.net/m0_37965018)
-[滚动鼠标](#introduction)
+[GitHub](https://github.com/2560055298)
+[Gitee](https://gitee.com/sheep-are-flying-in-the-sky)
